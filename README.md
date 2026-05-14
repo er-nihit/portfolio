@@ -30,7 +30,7 @@
     "description": "Red Hat Linux Administrator with 4+ years of experience in RHEL, Bash scripting, Ansible automation and Azure cloud.",
     "email": "iamnihitkumar@gmail.com",
     "telephone": "9430381100",
-    "url": "https://aritramondal.dev",
+    "url": "https://nihitkr.dev",
     "sameAs": [
       "https://www.linkedin.com/in/nihitkr",
       "https://github.com/er-nihit"
@@ -772,7 +772,7 @@
       <!-- PHOTO -->
       <div class="hero-photo-wrap">
         <img
-          src="https://aritramondal-1711.github.io/portfolio/my_img.jpg"
+          src="https://er-nihit.github.io/portfolio/my_img.jpg"
           alt="Nihit Kumar — Linux Administrator"
           class="hero-photo"
           loading="eager"
@@ -784,13 +784,13 @@
       <div class="hero-inner">
         <div class="hero-label">Linux Administrator & Cloud Engineer</div>
         <h1>
-          <span class="line1">Aritra</span>
+          <span class="line1">Nihit</span>
           <span class="line2">Mondal</span>
         </h1>
         <p class="hero-desc">
           3+ years managing enterprise RHEL environments at Capgemini.
           Automating ops with Bash & Ansible. Building cloud infrastructure on Azure.
-          MCA from Jadavpur University. Azure Certified (AZ-900).
+          B. Tech from C. V. Raman Global University. Azure Certified (AZ-900).
         </p>
         <div class="hero-tags">
           <span class="tag">RHEL 7/8</span>
@@ -803,10 +803,10 @@
           <span class="tag">Django</span>
         </div>
         <div class="hero-cta">
-          <a href="mailto:aritra850@outlook.com" class="btn btn-primary">Get In Touch</a>
+          <a href="mailto:iamnihitkumar@gmail.com" class="btn btn-primary">Get In Touch</a>
           <button class="btn btn-download" id="download-resume-btn" onclick="downloadResume()" aria-label="Download Resume as PDF">↓ Download Resume</button>
-          <a href="https://github.com/aritramondal-1711" target="_blank" rel="noopener" class="btn btn-outline">GitHub</a>
-          <a href="https://www.linkedin.com/in/mondalaritra" target="_blank" rel="noopener" class="btn btn-outline">LinkedIn</a>
+          <a href="https://github.com/er-nihit" target="_blank" rel="noopener" class="btn btn-outline">GitHub</a>
+          <a href="https://www.linkedin.com/in/nihitkr" target="_blank" rel="noopener" class="btn btn-outline">LinkedIn</a>
         </div>
       </div>
 
@@ -826,7 +826,7 @@
     <div class="stat"><span class="stat-num">3+</span><span class="stat-label">Years Experience</span></div>
     <div class="stat"><span class="stat-num">RHEL</span><span class="stat-label">Primary OS</span></div>
     <div class="stat"><span class="stat-num">Azure</span><span class="stat-label">Azure Certified</span></div>
-    <div class="stat"><span class="stat-num">MCA</span><span class="stat-label">Jadavpur University</span></div>
+    <div class="stat"><span class="stat-num">B. Tech</span><span class="stat-label">C. V. Raman Global University</span></div>
   </div>
 
   <!-- SKILLS -->
@@ -878,7 +878,7 @@
     <div class="exp-card">
       <div class="exp-meta">
         <div class="exp-company">Capgemini</div>
-        <div class="exp-period">2022 — Present<br/>Kolkata, India</div>
+        <div class="exp-period">2022 — Present<br/>Bengaluru, India</div>
       </div>
       <div class="exp-content">
         <div class="exp-role">Linux Administrator</div>
@@ -1003,10 +1003,10 @@
       <h2>Certifications</h2>
     </div>
     <div class="cert-card">
-      <div class="cert-badge">AZ<br/>900</div>
+      <div class="cert-badge">XYZ<br/>ABC</div>
       <div class="cert-info">
-        <h3>Microsoft Certified: Azure Fundamentals</h3>
-        <p>Issued by Microsoft · AZ-900 · Cloud concepts, Azure services, pricing and governance.</p>
+        <h3>Certification Name</h3>
+        <p>Details</p>
       </div>
     </div>
   </section>
@@ -1019,25 +1019,20 @@
           <span class="section-num">06 —</span>
           <h2>Contact</h2>
         </div>
-        <p>Available for roles in Linux administration, cloud infrastructure, DevOps, and automation engineering. Based in Kolkata, India.</p>
+        <p>Available for roles in Linux administration, cloud infrastructure, DevOps, and automation engineering. Based in Bengaluru, India.</p>
         <div class="contact-links">
-          <a href="mailto:aritra850@outlook.com" class="contact-link"><span class="contact-link-icon">✉</span>aritra850@outlook.com</a>
-          <a href="tel:+918509911711" class="contact-link"><span class="contact-link-icon">📞</span>+91 8509911711</a>
-          <a href="https://www.linkedin.com/in/mondalaritra" target="_blank" rel="noopener" class="contact-link"><span class="contact-link-icon">in</span>linkedin.com/in/mondalaritra</a>
-          <a href="https://github.com/aritramondal-1711" target="_blank" rel="noopener" class="contact-link"><span class="contact-link-icon">⌥</span>github.com/aritramondal-1711</a>
+          <a href="mailto:iamnihitkumar@gmail.com" class="contact-link"><span class="contact-link-icon">✉</span>iamnihitkumar@gmail.com</a>
+          <a href="tel:+919430381100" class="contact-link"><span class="contact-link-icon">📞</span>+91 9430381100</a>
+          <a href="https://www.linkedin.com/in/nihitkr" target="_blank" rel="noopener" class="contact-link"><span class="contact-link-icon">in</span>linkedin.com/in/nihitkr</a>
+          <a href="https://github.com/er-nihit" target="_blank" rel="noopener" class="contact-link"><span class="contact-link-icon">⌥</span>github.com/er-nihit</a>
         </div>
       </div>
       <div class="contact-right">
         <div style="margin-bottom:1.5rem; font-family:var(--mono); font-size:0.7rem; color:var(--accent); letter-spacing:0.15em; text-transform:uppercase;">Education</div>
         <div class="education-card">
-          <div class="edu-degree">Master of Computer Applications (MCA)</div>
-          <div class="edu-school">Jadavpur University, Kolkata</div>
-          <div class="edu-year">2019 – 2022</div>
-        </div>
-        <div class="education-card">
-          <div class="edu-degree">B.Sc. in Mathematics</div>
-          <div class="edu-school">Santipur College, Nadia, West Bengal</div>
-          <div class="edu-year">2015 – 2019</div>
+          <div class="edu-degree">Bachelor of Technology (Computer Science and IT)</div>
+          <div class="edu-school">C. V. Raman Global University, Bhubaneswar</div>
+          <div class="edu-year">2018 – 2022</div>
         </div>
       </div>
     </div>
@@ -1045,7 +1040,7 @@
 
   <footer>
     <p>© 2026 Nihit Kumar · Linux Administrator · Bengaluru, India</p>
-    <p>Built for <a href="https://www.linkedin.com/in/mondalaritra">Nihit Kumar</a></p>
+    <p>Built for <a href="https://www.linkedin.com/in/nihitkr">Nihit Kumar</a></p>
   </footer>
 
   <!-- ATS RESUME (hidden) -->
@@ -1053,13 +1048,13 @@
     <h1>Nihit Kumar</h1>
     <div class="ats-title">Linux Administrator &amp; Cloud Engineer</div>
     <div class="ats-contact">
-      Kolkata, India &nbsp;|&nbsp; aritra850@outlook.com &nbsp;|&nbsp; +91 8509911711 &nbsp;|&nbsp;
-      <a href="https://www.linkedin.com/in/mondalaritra">linkedin.com/in/mondalaritra</a> &nbsp;|&nbsp;
-      <a href="https://github.com/aritramondal-1711">github.com/aritramondal-1711</a> &nbsp;|&nbsp;
-      <a href="https://aritramondal-1711.github.io/portfolio/">https://aritramondal-1711.github.io/portfolio/</a>
+      Bengaluru, India &nbsp;|&nbsp; iamnihitkumar@gmail.com &nbsp;|&nbsp; +91 9430381100 &nbsp;|&nbsp;
+      <a href="https://www.linkedin.com/in/mondalaritra">linkedin.com/in/nihitkr</a> &nbsp;|&nbsp;
+      <a href="https://github.com/er-nihit">github.com/er-nihit</a> &nbsp;|&nbsp;
+      <a href="https://er-nihit.github.io/portfolio/">https://er-nihit.github.io/portfolio/</a>
     </div>
     <h2>Professional Summary</h2>
-    <p>Results-driven Red Hat Enterprise Linux (RHEL) Administrator with 3+ years of enterprise experience at Capgemini. Expertise in RHEL 7/8 server administration, Bash/Shell scripting, Ansible automation, Red Hat Satellite Server, patch management, and Microsoft Azure cloud infrastructure. Proven track record of automating operational workflows, reducing manual effort, and maintaining SLA compliance in high-availability production environments. Microsoft Azure Fundamentals certified (AZ-900). MCA graduate from Jadavpur University.</p>
+    <p>Results-driven Red Hat Enterprise Linux (RHEL) Administrator with 3+ years of enterprise experience at Capgemini. Expertise in RHEL 7/8 server administration, Bash/Shell scripting, Ansible automation, Red Hat Satellite Server, patch management, and Microsoft Azure cloud infrastructure. Proven track record of automating operational workflows, reducing manual effort, and maintaining SLA compliance in high-availability production environments. Microsoft Azure Fundamentals certified (AZ-900). B. Tech graduate from C. V. Raman Global University.</p>
     <h2>Technical Skills</h2>
     <ul class="ats-skills-grid">
       <li><strong>Operating Systems:</strong> RHEL 7/8, CentOS, Linux</li>
@@ -1076,7 +1071,7 @@
     <h2>Professional Experience</h2>
     <div class="ats-job-header">
       <span class="ats-company">Capgemini</span>
-      <span class="ats-period">2022 – Present | Kolkata, India</span>
+      <span class="ats-period">2022 – Present | Bengaluru, India</span>
     </div>
     <div class="ats-role">Linux Administrator</div>
     <ul>
@@ -1108,13 +1103,13 @@
     
     <h2>Personal Projects</h2>
     <p class="ats-project-header">Azure Server Health Monitoring System</p>
-    <p>Agentless server health monitoring for Azure Virtual Machines using Ansible. Dashboard built with Django and served via NGINX reverse proxy. GitHub: github.com/aritramondal-1711/HealthCheck</p>
+    <p>Agentless server health monitoring for Azure Virtual Machines using Ansible. Dashboard built with Django and served via NGINX reverse proxy. GitHub: github.com/er-nihit/HealthCheck</p>
     <p class="ats-project-header">Automated Health Monitor Setup (Ansible)</p>
-    <p>One-command Ansible automation to deploy and configure the complete Health Monitoring stack. Fully idempotent. GitHub: github.com/aritramondal-1711/HelthMonitor_SetUp</p>
+    <p>One-command Ansible automation to deploy and configure the complete Health Monitoring stack. Fully idempotent. GitHub: github.com/er-nihit/HelthMonitor_SetUp</p>
     <p class="ats-project-header">Enterprise Hub-and-Spoke Azure Network Project</p>
-    <p>Architected a secure Azure hub-and-spoke network with centralized firewall-based egress control and no public IP exposure. Implemented VNet peering, UDR routing, NSGs, Bastion-only access, internal load balancing, and Private DNS. GitHub: github.com/aritramondal-1711/Azure-Network-Project</p>
+    <p>Architected a secure Azure hub-and-spoke network with centralized firewall-based egress control and no public IP exposure. Implemented VNet peering, UDR routing, NSGs, Bastion-only access, internal load balancing, and Private DNS. GitHub: github.com/er-nihit/Azure-Network-Project</p>
     <p class="ats-project-header">Automated OS Patching Framework using Ansible</p>
-    <p>Enterprise-grade OS patching automation framework with modular Ansible roles, agentless SSH-based execution, centralized logging, and automated report generation across Linux and Solaris servers. GitHub: github.com/aritramondal-1711/Ansible_Playbook_Precheck_Patch_Postcheck</p>
+    <p>Enterprise-grade OS patching automation framework with modular Ansible roles, agentless SSH-based execution, centralized logging, and automated report generation across Linux and Solaris servers. GitHub: github.com/er-nihit/Ansible_Playbook_Precheck_Patch_Postcheck</p>
     <p class="ats-project-header">Linux Inventory & Patch Management Web Console - Python, Django & Ansible Automation</p>
     <p>Developed an agentless Linux Inventory & Patch Management Web Console using Python Django and Ansible to automate server administration tasks. Implemented centralized server inventory management, remote patch deployment, SSH-based system validation, automated pre/post patch health checks, and patch execution logging through a responsive WebUI. Integrated NGINX reverse proxy for deployment and optimized backend automation workflows for efficient Linux infrastructure management.</p>
     
@@ -1122,8 +1117,8 @@
     <div class="ats-cert"><strong>Microsoft Certified: Azure Fundamentals (AZ-900)</strong> — Microsoft, 2023<br>Cloud concepts, Azure services, pricing, SLAs, and governance.</div>
     
     <h2>Education</h2>
-    <div class="ats-edu-row"><span class="ats-degree">Master of Computer Applications (MCA)</span><span class="ats-year">2019 – 2022</span></div>
-    <div class="ats-school">Jadavpur University, Kolkata, West Bengal, India</div>
+    <div class="ats-edu-row"><span class="ats-degree">Master of Computer Applications (B. Tech)</span><span class="ats-year">2019 – 2022</span></div>
+    <div class="ats-school">C. V. Raman Global University, Bengaluru, West Bengal, India</div>
     <br>
     <div class="ats-edu-row"><span class="ats-degree">Bachelor of Science (B.Sc.) in Mathematics</span><span class="ats-year">2015 – 2019</span></div>
     <div class="ats-school">Santipur College, Nadia, West Bengal (University of Kalyani)</div>
@@ -1164,12 +1159,12 @@
         doc.setFont('helvetica','bold'); doc.setFontSize(20); doc.setTextColor(0); doc.text('Nihit Kumar', ml, y); y += 7;
         doc.setFont('helvetica','bold'); doc.setFontSize(10.5); doc.setTextColor(60); doc.text('Linux Administrator & Cloud Engineer', ml, y); y += 5;
         doc.setFont('helvetica','normal'); doc.setFontSize(8.5); doc.setTextColor(60);
-        doc.text('aritra850@outlook.com  |  +91 8509911711  |  Kolkata, India', ml, y); y += 4.5;
-        doc.text('linkedin.com/in/mondalaritra  |  github.com/aritramondal-1711  |  https://aritramondal-1711.github.io/portfolio/', ml, y); y += 2;
+        doc.text('iamnihitkumar@gmail.com  |  +91 9430381100  |  Bengaluru, India', ml, y); y += 4.5;
+        doc.text('linkedin.com/in/mondalaritra  |  github.com/er-nihit  |  https://er-nihit.github.io/portfolio/', ml, y); y += 2;
         hline(y, 0.6); y += 5;
 
         sectionTitle('Professional Summary');
-        bodyText('Results-driven Red Hat Enterprise Linux (RHEL) Administrator with 3+ years of enterprise experience at Capgemini. Expertise in RHEL 7/8 server administration, Bash/Shell scripting, Ansible automation, Red Hat Satellite Server, patch management, and Microsoft Azure cloud infrastructure. Proven track record of automating operational workflows, reducing manual effort, and maintaining SLA compliance in high-availability production environments. Microsoft Azure Fundamentals certified (AZ-900). MCA graduate from Jadavpur University.', { leading: 5 });
+        bodyText('Results-driven Red Hat Enterprise Linux (RHEL) Administrator with 3+ years of enterprise experience at Capgemini. Expertise in RHEL 7/8 server administration, Bash/Shell scripting, Ansible automation, Red Hat Satellite Server, patch management, and Microsoft Azure cloud infrastructure. Proven track record of automating operational workflows, reducing manual effort, and maintaining SLA compliance in high-availability production environments. Microsoft Azure Fundamentals certified (AZ-900). B. Tech graduate from C. V. Raman Global University.', { leading: 5 });
 
         sectionTitle('Technical Skills');
         const skills = [
@@ -1194,7 +1189,7 @@
         sectionTitle('Professional Experience');
         doc.setFont('helvetica','bold'); doc.setFontSize(10); doc.setTextColor(0); doc.text('Capgemini', ml, y);
         doc.setFont('helvetica','normal'); doc.setFontSize(9); doc.setTextColor(80);
-        const period = '2022 – Present  |  Kolkata, India'; doc.text(period, pw - mr - doc.getTextWidth(period), y); y += 5;
+        const period = '2022 – Present  |  Bengaluru, India'; doc.text(period, pw - mr - doc.getTextWidth(period), y); y += 5;
         doc.setFont('helvetica','italic'); doc.setFontSize(9.5); doc.setTextColor(50); doc.text('Linux Administrator', ml, y); y += 5;
         ['Configured, administered, and optimised RHEL 7/8 servers supporting enterprise-grade applications in production environments.',
          'Automated routine operational tasks and system maintenance using Bash/Shell scripting, reducing manual workload and human error significantly.',
@@ -1226,23 +1221,23 @@
           ['Azure Server Health Monitoring System',
           'Ansible | Django | NGINX | Azure | Linux',
           'Agentless server health monitoring for Azure VMs using Ansible. Dashboard built with Django, served via NGINX reverse proxy.',
-          'github.com/aritramondal-1711/HealthCheck'],
+          'github.com/er-nihit/HealthCheck'],
           ['Automated Health Monitor Setup',
           'Ansible | systemd | NGINX | Linux',
           'One-command Ansible automation to deploy and configure the complete Health Monitoring stack. Fully idempotent.',
-          'github.com/aritramondal-1711/HelthMonitor_SetUp'],
+          'github.com/er-nihit/HelthMonitor_SetUp'],
           ['Enterprise Hub-and-Spoke Azure Network Project',
           'Microsoft Azure | VNet | Azure Firewall | NSG | Azure Bastion | Load Balancer',
           'Architected a secure Azure hub-and-spoke network with centralized firewall-based egress control, VNet peering, UDR routing, NSGs, Bastion-only access, and Private DNS — Zero Trust–aligned.',
-          'github.com/aritramondal-1711/Azure-Network-Project'],
+          'github.com/er-nihit/Azure-Network-Project'],
           ['Automated OS Patching Framework using Ansible',
           'Ansible | Linux | Patch Management | Automation',
           'Enterprise-grade OS patching automation with modular Ansible roles, agentless SSH-based execution, centralized logging, and automated report generation across Linux and Solaris servers.',
-          'github.com/aritramondal-1711/Ansible_Playbook_Precheck_Patch_Postcheck'],
+          'github.com/er-nihit/Ansible_Playbook_Precheck_Patch_Postcheck'],
           ['Linux Inventory & Patch Management Web Console - Python, Django & Ansible Automation',
            'Ansible | Linux Automation | Python | Django | Full Stack | Javascript | HTML | CSS | NGINX',
           'Developed an agentless Linux Inventory & Patch Management Web Console using Python Django and Ansible to automate server administration tasks. Implemented centralized server inventory management, remote patch deployment, SSH-based system validation, automated pre/post patch health checks, and patch execution logging through a responsive WebUI. Integrated NGINX reverse proxy for deployment and optimized backend automation workflows for efficient Linux infrastructure management.',
-          'https://github.com/aritramondal-1711/linux-inventory---patch-management-webconsole']
+          'https://github.com/er-nihit/linux-inventory---patch-management-webconsole']
         ].forEach(([title, stack, desc, link]) => {
           checkPage(18);
           doc.setFont('helvetica','bold'); doc.setFontSize(9.5); doc.setTextColor(0); doc.text(title, ml, y); y += 4.5;
@@ -1256,7 +1251,7 @@
         doc.setFont('helvetica','normal'); doc.setFontSize(9); doc.setTextColor(60); doc.text('Issued by Microsoft · Cloud concepts, Azure services, pricing, SLAs, and governance.', ml, y); y += 5;
 
         sectionTitle('Education');
-        [['Master of Computer Applications (MCA)','Jadavpur University, Kolkata, West Bengal, India','2019 – 2022'],
+        [['Master of Computer Applications (B. Tech)','C. V. Raman Global University, Bengaluru, West Bengal, India','2019 – 2022'],
          ['Bachelor of Science (B.Sc.) in Mathematics','Santipur College, Nadia, West Bengal (University of Kalyani)','2015 – 2019'],
         ].forEach(([degree, school, years]) => {
           checkPage(10);
